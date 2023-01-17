@@ -1,13 +1,6 @@
 # GamesRepo
 This is where the game louncher goes; also where I will place all my 
 ```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+graph LR
+A[uno] --> B((Debug, play vertical slice no bugs)) --> C((Make all game rules work)) --> D((Make all player amounts work)) --> E((Add flip)) --> F((Rework AI)) --> G[Feture complete] --> h((Animations and stuff))
 ```
