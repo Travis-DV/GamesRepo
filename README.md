@@ -8,4 +8,4 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
-cool #RGB[A]
+cool#RGB[A]
