@@ -1,4 +1,4 @@
-```Mermaid
+```mermaid
 A[Now] --> B(Uno)
 B --> |0.0.1.0| C{MVP}
 C -->|0.0.2.0| D{Gamemodes}
