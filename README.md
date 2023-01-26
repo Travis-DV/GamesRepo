@@ -1,6 +1,6 @@
 # Game Repo and Future Browser
 
-## Currently this does not have a form yet but it will eventualy be able to download, autoupdate, and manage all of my c# games. 
+## Currently this does not have a form but it will eventualy be able to download, autoupdate, and manage all of my c# games. 
 
 ### Games, here are all currently made and public games I have. They are all linked back to there respective repos.
 1. #### [Uno;](https://github.com/Travis-Findley/Uno) 
