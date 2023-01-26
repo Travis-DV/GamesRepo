@@ -1,20 +1,25 @@
-* Games
-  * [Uno](https://github.com/Travis-Findley/Uno)
-    * Uno 2-4 players online eventualy, normal and flip, with AI.
-  * [Random Number Guesser](https://github.com/Travis-Findley/RandomNumbGuess)
-    * Guess the random number
-  * [Dice Role](https://github.com/Travis-Findley/DiceRole/blob/main/README.md)
-    * It roles a die
-  * [Change Making Game](https://github.com/Travis-Findley/ChangeGame)
-    * Play a game for making Change up to 1 doller
-  * [Joke Teller](https://github.com/Travis-Findley/JokeTeller)
-    * This tells a joke when user clicks a button
+# Game Repo and future browser
+
+## Currently this does not have a form yet but it will eventualy be able to download, autoupdate, and manage all of my c# games. 
+
+### Games, here are all currently made and public games I have. They are all linked back to there respective repos.
+1. #### [Uno;](https://github.com/Travis-Findley/Uno) 
+     * Uno 2 ~~-4~~ players ~~online~~, normal and ~~flip, and with AI~~.
+2. #### [Random Number Guesser](https://github.com/Travis-Findley/RandomNumbGuess)
+     * Guess the random number
+3. #### [Dice Role;](https://github.com/Travis-Findley/DiceRole/blob/main/README.md)
+     * It roles a die
+4. #### [Change Making Game;](https://github.com/Travis-Findley/ChangeGame)
+     * Play a game for making Change up to 1 doller
+5. #### [Joke Teller;](https://github.com/Travis-Findley/JokeTeller)
+     * This tells a joke when user clicks a button
   
+## Here is a road map to what I plan on doing
 
 ```mermaid
 graph TD;
     A[Finish Uno] --> B{Make Form};
-    B --> |0.0.1.0| C{Auto Update};
+    B --> |0.0.2.0| C{Auto Update};
     C --> |`.`.`.`|D[Add Games Games];
 
     D --> E{C# Class};
