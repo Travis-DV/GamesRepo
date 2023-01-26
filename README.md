@@ -13,9 +13,40 @@
 
 ```mermaid
 graph TD;
-    A[Game Browser] --> B{Make Form};
-    B --> |0.0.1.0| C{Add Uno};
-    C --> |0.0.2.0| D{Auto Update};
-    D --> |`.`.`.`| E{More Games};
-    E --> Z[Done];
+    A[Finish Uno] --> B{Make Form};
+    B --> |0.0.2.0| C{Auto Update};
+    C --> |`.`.`.`|D[Add Games Games];
+
+    D --> E{C# Class};
+    E --> F(Uno);
+    E --> G(Random Number Guesser);
+    E --> H(Change Making Game);
+    E --> I(Joke Teller);
+    E --> J(Dice Role);
+
+    D --> K{Python};
+    K --> L(MadLib);
+    K --> M(Wordle);
+    K --> N(Wheel Of Fortune);
+    K --> O(Choose Your Own Adventure);
+    K --> |Add python fetures to C# project| G;
+    K --> P(Coin Flip);
+    K --> Q(Rock Paper Scissors);
+    K --> R(War);
+
+
+    L --> X;
+    M --> X;
+    N --> X;
+    O --> X;
+    P --> X;
+    Q --> X;
+    R --> X;
+    X{Port to c#} --> Z
+
+    F --> Z;
+    G --> Z;
+    H --> Z;
+    I --> Z;
+    J --> Z[Done];
 ```
