@@ -14,7 +14,7 @@
 ```mermaid
 graph TD;
     A[Finish Uno] --> B{Make Form};
-    B --> |0.0.2.0| C{Auto Update};
+    B --> |0.0.1.0| C{Auto Update};
     C --> |`.`.`.`|D[Add Games Games];
 
     D --> E{C# Class};
