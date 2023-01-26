@@ -1,4 +1,4 @@
-# Game Repo and future browser
+# Game Repo and Future Browser
 
 ## Currently this does not have a form yet but it will eventualy be able to download, autoupdate, and manage all of my c# games. 
 
