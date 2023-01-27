@@ -14,7 +14,7 @@
 5. #### [Joke Teller;](https://github.com/Travis-Findley/JokeTeller)
      * This tells a joke when user clicks a button
 6. #### [TicTacToe;](https://github.com/Travis-Findley/TicTacToe)
-      * Genaric TicTacToe game against a himan or *AI*
+      * Genaric TicTacToe game against a himan or '*AI*'
   
 ## Here is a road map to what I plan on doing
 
